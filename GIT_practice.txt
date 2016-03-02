@@ -1,0 +1,8 @@
+echo "# GIT_Vinay" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/vinay1108/GIT_Vinay.git
+git push -u origin master
+
+
