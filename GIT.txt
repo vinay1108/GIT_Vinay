@@ -1,0 +1,5 @@
+https://122.15.233.171/plugins/git/digilokcer/Academic_repositories.git
+
+ajitcse1215@gmail.com
+
+auth/forgot_password 
